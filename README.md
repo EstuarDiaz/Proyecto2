@@ -1,4 +1,4 @@
-# Proyecto2
+# Proyecto No. 2 Fase 1
 Algoritmos y estructuras de datos, Sistema de recomendaciones con base de datos de grafos
 
 Fernando José Garavito Ovando         18071                
